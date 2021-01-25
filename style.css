@@ -376,7 +376,8 @@ input[type=checkbox]:checked ~ .checklist-item__title {
   margin-top: 0.55em;
   margin-bottom: 0.2em;
   padding-bottom: 0.75em;
-  border-bottom: 1px solid #b5adde;
+  border-bottom: 1px solid rgb(61, 59, 59);
+  color:rgb(61, 59, 59);
 }
 .checklist .open .info-container {
   max-height: 500px;
