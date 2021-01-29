@@ -50,10 +50,10 @@ function countChecked() {
 		if (a < 6){
 			progress.style.background="#ef2800";
 		}
-		else if (a < 11){
+		else if (a < 8){
 			progress.style.background="#ff9110";
 		}
-		else if (a < 13){
+		else if (a < 11){
 			progress.style.background= "#ffff00";
 		}
 		else {
